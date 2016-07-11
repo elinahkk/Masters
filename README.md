@@ -1,4 +1,4 @@
-# Masters thesis (2016):  Changes in Daily extremes of Precipitation and Temperatures in East Africa resulting from Climate Change
+# Masters thesis (2016):  Precipitation and temperatures extremes in East Africa in past and future climate
 ## Elinah Khasandi
 ### Department of Geosciences,
 ### University of Oslo, Norway

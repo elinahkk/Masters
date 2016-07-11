@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 custom_functions.pyc
+//*.pyc
+*.pdf

@@ -1,14 +1,25 @@
-## Masters thesis work by E. Khasandi ##
-### University of Oslo, 2015/2016###
+# Masters thesis (2016):  Changes in Daily extremes of Precipitation and Temperatures in East Africa resulting from Climate Change
+## Elinah Khasandi
+### Department of Geosciences,
+### University of Oslo, Norway
 
-The following Repo contains Data and iPython notebooks for my masters thesis.
+The following repository contains Data and Jupyter notebooks, written in Python 2, for my Masters thesis.
 
-The focus of the study is on analysis of daily precipitation, minimum, and maximum temperature characteristics, seasonal climatologies and their extremes using observed in situ data. In addition the study assesses the capability of the Co-ordinated Regional Climate Downscaling Experiment (CORDEX) Rossby Centre Regional Climate Model - RCA4, Regional Climate Model (RCM) to simulate the observed climate exttrems of the region. 
+To install project dependencies: `pip install -r requirements.txt`
+
+The focus of the study is on analysis of daily precipitation, minimum, and maximum temperature characteristics, seasonal climatologies and their extremes using observed in situ data. In addition the study assesses the capability of the Co-ordinated Regional Climate Downscaling Experiment (CORDEX) Rossby Centre Regional Climate Model - RCA4, Regional Climate Model (RCM) to simulate the observed climate extremes of the region.
 
 The same code is modified accordingly for the analysis of maximum and minimum temperature.
 
-GHCN_Data_Analysis is the main notebook to look at. 
+GHCN_Data_Analysis is the main notebook to look at.
 
-Different notebooks that focussed on CORDEX ouptuts will be commited soon.
+Different notebooks that focussed on CORDEX outputs will be committed soon.
 
+## License
 
+Copyright (c) 2016, E. Khasandi and the University of Oslo
+
+## Citation
+Please see citation file in this repo.
+
+## Acknowledgements

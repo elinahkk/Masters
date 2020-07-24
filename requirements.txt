@@ -7,7 +7,7 @@ datashape==0.5.1
 decorator==4.0.9
 dynd==0.7.3.dev1
 h5py==2.6.0
-httplib2==0.9.2
+httplib2==0.18.0
 idna==2.0
 ipaddress==1.0.14
 ipykernel==4.3.1
